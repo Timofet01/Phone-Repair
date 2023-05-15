@@ -9,7 +9,7 @@ h1 {
 
 h2{
     font-size: 40px;
-    background-color: peru;
+    background-color: green;
 }
 
 a {
@@ -18,7 +18,7 @@ a {
 }
 
 p, img {
-    border: 3px solid peru;
+    border: 3px solid green;
 }
 
 p, table {
@@ -26,11 +26,11 @@ p, table {
 }
 
 table{
-    background-color: lightyellow;
+    background-color: lightgreen;
     text-align: center;
     border-collapse: collapse;
 }
 
 td{
-    border: 1px solid brown;
+    border: 1px solid green;
 }
